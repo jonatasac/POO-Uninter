@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="POO/src"/>
+	<classpathentry kind="src" path="Pratica1/src"/>
+	<classpathentry kind="src" path="Pratica2/src"/>
+	<classpathentry kind="src" path="TransiçãoPYJAVA/src"/>
+	<classpathentry kind="output" path="POO/bin"/>
+</classpath>
